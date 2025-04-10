@@ -5,7 +5,7 @@ Hapi Batch Image Merge Pro is designed to generate stitched images in batches.Ge
 
 # Software interface
 ![main](images/software-main.png)
-![config](images/config page.png)
+![config](images/config-page.png)
 
 # The effect of the stitched images
 ### 2x2 blur with text
